@@ -4,5 +4,5 @@ Udamy-gRPC-Go-Firebse-Docker
 
 
 
-GO1.25
+Go1.25
 Docker
