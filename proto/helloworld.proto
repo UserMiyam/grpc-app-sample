@@ -1,0 +1,5 @@
+//version定義
+syntax = "proto3";
+
+//pkg定義
+package helloworld;
