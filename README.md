@@ -7,3 +7,4 @@ Go1.25　install
 Docker　install  
 
 
+修正中
