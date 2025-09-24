@@ -5,6 +5,3 @@ Udamy-gRPC-Go-Firebse-Docker
 git clone[リポジトリ]<br>
 Go1.25　install  
 Docker　install  
-
-
-修正中
